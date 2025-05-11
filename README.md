@@ -14,14 +14,16 @@ tondeuses/serpents (terre-plein central).
 Objectif : atteindre un nombre de points d’arrivée (accueil des grenouilles).
 ### 2. Modes Réseau
   A. Mode Collaboratif
-    Variante 1 : Objectif d’équipe — sauver un maximum de grenouilles en
-    coopération (nombre total).
-    Variante 2 : Un ou plusieurs joueurs incarnent une grenouille carnivore et
-    doivent manger les autres joueurs.
+###
+Variante 1 : Objectif d’équipe — sauver un maximum de grenouilles en coopération (nombre total).
+###
+Variante 2 : Un ou plusieurs joueurs incarnent une grenouille carnivore et doivent manger les autres joueurs.
 ###
   B. Mode Compétition
-    Variante 1 : Le premier joueur à sauver n grenouilles gagne.
-    Variante 2 : Le joueur ayant sauvé le plus de grenouilles au bout de m minutes gagne.
+###
+Variante 1 : Le premier joueur à sauver n grenouilles gagne.
+###
+Variante 2 : Le joueur ayant sauvé le plus de grenouilles au bout de m minutes gagne.
 ### 3. Obstacles dynamiques
 Présence de crocodiles dans la rivière (qui apparaissent et disparaissent sur
 un intervalle de temps donné).
