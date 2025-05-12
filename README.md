@@ -42,4 +42,4 @@ Si un client lance une partie réseau et ne trouve pas d’autres clients (minim
 Le serveur adapte la difficulté du jeu (vitesse des obstacles) en fonction du
 niveau du joueur.
 
-![Texte alternatif](chemin/vers/image.jpg)
+![Texte alternatif](./img/template.png)
