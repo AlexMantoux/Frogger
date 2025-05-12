@@ -1,3 +1,5 @@
+![Texte alternatif](./template.png)
+
 # FROGGER
 
 Recréer le jeu Frogger en Java en y ajoutant des fonctionnalités avancées, en
@@ -41,5 +43,3 @@ Le serveur gère plusieurs types de parties.
 Si un client lance une partie réseau et ne trouve pas d’autres clients (minimum 1) en 60 secondes, alors elle bascule automatiquement en mode solo.
 Le serveur adapte la difficulté du jeu (vitesse des obstacles) en fonction du
 niveau du joueur.
-
-![Texte alternatif](./template.png)
