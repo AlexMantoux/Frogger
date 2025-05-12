@@ -33,8 +33,13 @@ réalisés par les joueurs alors le tableau des scores est modifié et le nouvea
 record est inscrit)
 Stockage dans un fichier .txt associé à une classe Java pour l’écriture
 ### 5. Serveur Multi-clients et adaptatif
+
+
+
 Plusieurs clients peuvent se connecter.
 Le serveur gère plusieurs types de parties.
 Si un client lance une partie réseau et ne trouve pas d’autres clients (minimum 1) en 60 secondes, alors elle bascule automatiquement en mode solo.
 Le serveur adapte la difficulté du jeu (vitesse des obstacles) en fonction du
 niveau du joueur.
+
+![Texte alternatif](chemin/vers/image.jpg)
